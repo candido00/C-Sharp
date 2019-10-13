@@ -1,0 +1,14 @@
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.exe.config
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.exe
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.pdb
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.exe
+C:\Users\cleyd\source\repos\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\bin\Debug\ValidacaoSenha.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ValidacaoSenha\ValidacaoSenha\obj\Debug\ValidacaoSenha.pdb

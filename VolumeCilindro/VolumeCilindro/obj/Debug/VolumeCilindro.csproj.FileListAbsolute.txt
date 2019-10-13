@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.pdb

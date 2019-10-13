@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\bin\Debug\PerimetroQuadrado.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\bin\Debug\PerimetroQuadrado.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\bin\Debug\PerimetroQuadrado.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\obj\Debug\PerimetroQuadrado.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\obj\Debug\PerimetroQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\obj\Debug\PerimetroQuadrado.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\PerimetroQuadrado\PerimetroQuadrado\obj\Debug\PerimetroQuadrado.pdb

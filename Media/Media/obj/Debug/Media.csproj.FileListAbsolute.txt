@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\obj\Debug\Media.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\bin\Debug\Media.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\bin\Debug\Media.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\bin\Debug\Media.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\obj\Debug\Media.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\Media\Media\obj\Debug\Media.pdb

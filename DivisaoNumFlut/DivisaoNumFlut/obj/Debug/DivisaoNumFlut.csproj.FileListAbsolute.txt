@@ -1,0 +1,7 @@
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\bin\Debug\DivisaoNumFlut.exe.config
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\bin\Debug\DivisaoNumFlut.exe
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\bin\Debug\DivisaoNumFlut.pdb
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\obj\Debug\DivisaoNumFlut.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\obj\Debug\DivisaoNumFlut.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\obj\Debug\DivisaoNumFlut.exe
+C:\Users\cleyd\source\repos\DivisaoNumFlut\DivisaoNumFlut\obj\Debug\DivisaoNumFlut.pdb

@@ -1,0 +1,7 @@
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\bin\Debug\QuadradoNumeros.exe.config
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\bin\Debug\QuadradoNumeros.exe
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\bin\Debug\QuadradoNumeros.pdb
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\obj\Debug\QuadradoNumeros.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\obj\Debug\QuadradoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\obj\Debug\QuadradoNumeros.exe
+C:\Users\cleyd\source\repos\QuadradoNumeros\QuadradoNumeros\obj\Debug\QuadradoNumeros.pdb

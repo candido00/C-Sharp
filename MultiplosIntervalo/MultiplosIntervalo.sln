@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosIntervalo", "MultiplosIntervalo\MultiplosIntervalo.csproj", "{0F2AA7FE-BC01-4FD3-AFA1-1AC1FDDEBBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2AA7FE-BC01-4FD3-AFA1-1AC1FDDEBBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2AA7FE-BC01-4FD3-AFA1-1AC1FDDEBBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2AA7FE-BC01-4FD3-AFA1-1AC1FDDEBBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2AA7FE-BC01-4FD3-AFA1-1AC1FDDEBBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DAED7F-92BA-4BFD-8220-BBC3F01053D2}
+	EndGlobalSection
+EndGlobal

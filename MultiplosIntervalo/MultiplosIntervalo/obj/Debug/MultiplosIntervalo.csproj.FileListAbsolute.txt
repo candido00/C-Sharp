@@ -1,0 +1,7 @@
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\bin\Debug\MultiplosIntervalo.exe.config
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\bin\Debug\MultiplosIntervalo.exe
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\bin\Debug\MultiplosIntervalo.pdb
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\obj\Debug\MultiplosIntervalo.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\obj\Debug\MultiplosIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\obj\Debug\MultiplosIntervalo.exe
+C:\Users\cleyd\source\repos\MultiplosIntervalo\MultiplosIntervalo\obj\Debug\MultiplosIntervalo.pdb

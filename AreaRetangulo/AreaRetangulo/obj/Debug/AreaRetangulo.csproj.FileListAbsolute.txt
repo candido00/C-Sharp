@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\bin\Debug\AreaRetangulo.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\bin\Debug\AreaRetangulo.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\bin\Debug\AreaRetangulo.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\obj\Debug\AreaRetangulo.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\obj\Debug\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\obj\Debug\AreaRetangulo.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\AreaRetangulo\AreaRetangulo\obj\Debug\AreaRetangulo.pdb

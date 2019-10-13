@@ -1,0 +1,14 @@
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe.config
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\bin\Debug\SomaImpares.pdb
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\obj\Debug\SomaImpares.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\obj\Debug\SomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\obj\Debug\SomaImpares.exe
+C:\Users\cleyd\source\repos\SomaImpares\SomaImpares\obj\Debug\SomaImpares.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\bin\Debug\SomaImpares.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\obj\Debug\SomaImpares.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\obj\Debug\SomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\obj\Debug\SomaImpares.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\SomaImpares\SomaImpares\obj\Debug\SomaImpares.pdb

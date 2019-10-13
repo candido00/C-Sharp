@@ -1,0 +1,7 @@
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\bin\Debug\PreferenciaCombustivel.exe.config
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\bin\Debug\PreferenciaCombustivel.exe
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\bin\Debug\PreferenciaCombustivel.pdb
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\obj\Debug\PreferenciaCombustivel.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\obj\Debug\PreferenciaCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\obj\Debug\PreferenciaCombustivel.exe
+C:\Users\cleyd\source\repos\PreferenciaCombustivel\PreferenciaCombustivel\obj\Debug\PreferenciaCombustivel.pdb

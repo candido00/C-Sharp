@@ -1,0 +1,7 @@
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.exe.config
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.exe
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.pdb
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.csprojAssemblyReference.cache
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.exe
+C:\Users\cleyd\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.pdb
