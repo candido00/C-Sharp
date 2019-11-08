@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\bin\Debug\ArrayNomesPessoas.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\bin\Debug\ArrayNomesPessoas.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\bin\Debug\ArrayNomesPessoas.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\obj\Debug\ArrayNomesPessoas.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\obj\Debug\ArrayNomesPessoas.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\obj\Debug\ArrayNomesPessoas.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesPessoas\obj\Debug\ArrayNomesPessoas.pdb

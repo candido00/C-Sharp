@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\bin\Debug\IdadePessoa.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\bin\Debug\IdadePessoa.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\bin\Debug\IdadePessoa.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\obj\Debug\IdadePessoa.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\obj\Debug\IdadePessoa.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\obj\Debug\IdadePessoa.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\IdadePessoa\obj\Debug\IdadePessoa.pdb

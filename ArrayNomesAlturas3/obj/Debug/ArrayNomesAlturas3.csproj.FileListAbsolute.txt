@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\bin\Debug\ArrayNomesAlturas3.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\bin\Debug\ArrayNomesAlturas3.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\bin\Debug\ArrayNomesAlturas3.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\obj\Debug\ArrayNomesAlturas3.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\obj\Debug\ArrayNomesAlturas3.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\obj\Debug\ArrayNomesAlturas3.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayNomesAlturas3\obj\Debug\ArrayNomesAlturas3.pdb

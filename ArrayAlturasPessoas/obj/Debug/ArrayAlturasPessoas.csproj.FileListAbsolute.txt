@@ -1,0 +1,7 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\bin\Debug\ArrayAlturasPessoas.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\bin\Debug\ArrayAlturasPessoas.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\bin\Debug\ArrayAlturasPessoas.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\obj\Debug\ArrayAlturasPessoas.csproj.CoreCompileInputs.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\obj\Debug\ArrayAlturasPessoas.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\obj\Debug\ArrayAlturasPessoas.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\ArrayAlturasPessoas\obj\Debug\ArrayAlturasPessoas.csprojAssemblyReference.cache
