@@ -1,0 +1,6 @@
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\bin\Debug\WalletControl.exe.config
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\bin\Debug\WalletControl.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\bin\Debug\WalletControl.pdb
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\obj\Debug\WalletControl.csprojAssemblyReference.cache
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\obj\Debug\WalletControl.exe
+C:\Users\cleyd\OneDrive\Documentos\C#\WalletControl\obj\Debug\WalletControl.pdb

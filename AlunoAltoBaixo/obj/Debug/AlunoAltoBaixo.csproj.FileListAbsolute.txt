@@ -2,6 +2,5 @@ C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\bin\Debug\AlunoAltoBaixo.ex
 C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\bin\Debug\AlunoAltoBaixo.exe
 C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\bin\Debug\AlunoAltoBaixo.pdb
 C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\obj\Debug\AlunoAltoBaixo.csprojAssemblyReference.cache
-C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\obj\Debug\AlunoAltoBaixo.csproj.CoreCompileInputs.cache
 C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\obj\Debug\AlunoAltoBaixo.exe
 C:\Users\cleyd\OneDrive\Documentos\C#\AlunoAltoBaixo\obj\Debug\AlunoAltoBaixo.pdb
