@@ -87,7 +87,7 @@ namespace WalletControl
                         Conta Conta = new Conta();
 
                         Console.WriteLine("Informe o Nome da Conta: ");
-                        Conta.nomeConta = Console.ReadLine().ToUpper();
+                        Conta.nomeConta = Console.ReadLine().ToUpper().Trim();
                        
                         if (Conta.nomeConta == null || Conta.nomeConta == "")
 	                    {

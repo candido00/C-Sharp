@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CalculadoraForm",
     "\\WalletControl"
   ],
-  "SelectedNode": "\\WalletControl\\Program.cs",
+  "SelectedNode": "\\CalculadoraForm\\WindowsFormsApp1.sln",
   "PreviewInSolutionExplorer": false
 }
